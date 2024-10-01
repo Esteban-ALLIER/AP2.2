@@ -4,7 +4,7 @@ namespace ASPBookProject.Models;
 
 public class Medecin
 {
- public int Id {get;set;}
+ public int MedecinId {get;set;}
 
  public string? Identifiant {get; set;}
 
